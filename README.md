@@ -175,13 +175,9 @@ BrainHouse is licensed under the MIT License - see the [LICENSE](LICENSE) file f
 
 ---
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=aksh8t/BrainHouse&type=Date)](https://star-history.com/#aksh8t/BrainHouse)
-
----
 
 <p align="center">
   <b>BrainHouse: Where AI Meets Imagination</b><br>
-  Built with ❤️
+  Built by Deepansh
 </p>
